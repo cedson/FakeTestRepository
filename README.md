@@ -1,4 +1,4 @@
 FakeTestRepository
 ==================
 
-Learning more about GIT and GIThub
+Trying out GIThub
